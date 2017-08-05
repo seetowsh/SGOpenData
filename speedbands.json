@@ -1,0 +1,455 @@
+{
+    "odata.metadata": "http://datamall2.mytransport.sg/ltaodataservice/$metadata#TrafficSpeedBands",
+    "value": [
+        {
+            "LinkID": "103098943",
+            "RoadName": "CHOA CHU KANG AVENUE 3",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3805895432850994 103.74201730473243 1.3800400299576012 103.74120855605975"
+        },
+        {
+            "LinkID": "103076063",
+            "RoadName": "WOODLANDS ROAD",
+            "RoadCategory": "B",
+            "SpeedBand": 3,
+            "MinimumSpeed": "40",
+            "MaximumSpeed": "59",
+            "Location": "1.399027473240379 103.7553182996927 1.3986609754803143 103.75518194323922"
+        },
+        {
+            "LinkID": "103030883",
+            "RoadName": "HOUGANG AVENUE 4",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3742439017982357 103.88529975827204 1.3738695600842703 103.8852253844054"
+        },
+        {
+            "LinkID": "104003992",
+            "RoadName": "CLEMENTI AVENUE 6",
+            "RoadCategory": "F",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3163287378822295 103.76133268167833 1.3152605534502255 103.76088573773033"
+        },
+        {
+            "LinkID": "103110036",
+            "RoadName": "HARVEY ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.333534171783063 103.88445104036495 1.334480240662004 103.88423757172991"
+        },
+        {
+            "LinkID": "103089006",
+            "RoadName": "PIONEER ROAD NORTH",
+            "RoadCategory": "B",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3468683821422813 103.69025703809406 1.3466193981361332 103.6903389382926"
+        },
+        {
+            "LinkID": "103102707",
+            "RoadName": "TEBAN GARDENS ROAD",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3221397264324177 103.74067367269409 1.3224151277960807 103.73936107597333"
+        },
+        {
+            "LinkID": "103066446",
+            "RoadName": "SELETAR EXPRESSWAY",
+            "RoadCategory": "A",
+            "SpeedBand": 4,
+            "MinimumSpeed": "60",
+            "MaximumSpeed": "",
+            "Location": "1.3933641470952896 103.83017614834209 1.3930461788606892 103.82850046052181"
+        },
+        {
+            "LinkID": "104006262",
+            "RoadName": "JALAN TIONG",
+            "RoadCategory": "B",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.2885446575569008 103.81522708590182 1.2894487475306688 103.81601120052828"
+        },
+        {
+            "LinkID": "103023263",
+            "RoadName": "MIMOSA ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3846516285071027 103.86130024952197 1.3847021513504938 103.86163326231437"
+        },
+        {
+            "LinkID": "103106791",
+            "RoadName": "JURONG WEST STREET 51",
+            "RoadCategory": "C",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3469175675090634 103.72108428937013 1.347671822206832 103.72065434759489"
+        },
+        {
+            "LinkID": "103037283",
+            "RoadName": "LI HWAN DRIVE",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.354538472093295 103.86279521974849 1.3554224742291467 103.863192917283"
+        },
+        {
+            "LinkID": "103079659",
+            "RoadName": "BENOI ROAD",
+            "RoadCategory": "B",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3218406112967973 103.67908937587285 1.3224708533860603 103.67911675172884"
+        },
+        {
+            "LinkID": "103053551",
+            "RoadName": "PENJURU CLOSE",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.312473778966346 103.73316481781487 1.3127432138862785 103.73199916551488"
+        },
+        {
+            "LinkID": "103070015",
+            "RoadName": "ELIAS ROAD",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3777681206363968 103.94139850987841 1.378867186631845 103.94152708219333"
+        },
+        {
+            "LinkID": "103046419",
+            "RoadName": "TUDOR CLOSE",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3272983831607585 103.81902739813964 1.3269356969952486 103.81906247979533"
+        },
+        {
+            "LinkID": "103100830",
+            "RoadName": "JURONG WEST STREET 91",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3430596047385601 103.69250778755682 1.3422347747467551 103.69145681907827"
+        },
+        {
+            "LinkID": "104007318",
+            "RoadName": "BISHAN STREET 12",
+            "RoadCategory": "D",
+            "SpeedBand": 1,
+            "MinimumSpeed": "0",
+            "MaximumSpeed": "19",
+            "Location": "1.3479668056040577 103.84987239628619 1.347285087627832 103.84973081425973"
+        },
+        {
+            "LinkID": "103091431",
+            "RoadName": "JOO CHIAT AVENUE",
+            "RoadCategory": "E",
+            "SpeedBand": 4,
+            "MinimumSpeed": "60",
+            "MaximumSpeed": "",
+            "Location": "1.3160979329649067 103.91252210842339 1.3157664228530506 103.91101277695655"
+        },
+        {
+            "LinkID": "103046935",
+            "RoadName": "SERANGOON ROAD",
+            "RoadCategory": "B",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3220591510051254 103.86246461405193 1.3215993547809128 103.86315591911669"
+        },
+        {
+            "LinkID": "103104914",
+            "RoadName": "TAMPINES ROAD",
+            "RoadCategory": "B",
+            "SpeedBand": 3,
+            "MinimumSpeed": "40",
+            "MaximumSpeed": "59",
+            "Location": "1.3776182033611846 103.91396137870652 1.3784841278685094 103.91458882722249"
+        },
+        {
+            "LinkID": "103031346",
+            "RoadName": "MANDAI ROAD",
+            "RoadCategory": "B",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.4026080634287352 103.81525433456433 1.402689645719599 103.81640482532244"
+        },
+        {
+            "LinkID": "103026994",
+            "RoadName": "NIM ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3806647169807298 103.86241340163942 1.3815437998182825 103.86275797975088"
+        },
+        {
+            "LinkID": "103067603",
+            "RoadName": "COMMONWEALTH AVENUE WEST",
+            "RoadCategory": "B",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3155700538658663 103.76502558167256 1.3146394741932022 103.76542384414495"
+        },
+        {
+            "LinkID": "103031267",
+            "RoadName": "PONGGOL SEVENTEENTH AVENUE",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.415975121825413 103.90579256200513 1.4155838094053605 103.90532727949302"
+        },
+        {
+            "LinkID": "103028396",
+            "RoadName": "T2 BASEMENT DRIVE",
+            "RoadCategory": "E",
+            "SpeedBand": 4,
+            "MinimumSpeed": "60",
+            "MaximumSpeed": "",
+            "Location": "1.354555356422381 103.98908738997977 1.3535347292627729 103.98854931143833"
+        },
+        {
+            "LinkID": "103106763",
+            "RoadName": "SHUNFU ROAD",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.352414677139681 103.83714126749518 1.3515001003201181 103.83831024337069"
+        },
+        {
+            "LinkID": "103011039",
+            "RoadName": "MEYER ROAD",
+            "RoadCategory": "C",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.2979413745180766 103.8858495015343 1.2993701686587462 103.88595357348129"
+        },
+        {
+            "LinkID": "103080426",
+            "RoadName": "YIO CHU KANG ROAD",
+            "RoadCategory": "B",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3789273339780308 103.8766121640118 1.378711751253142 103.8766364665296"
+        },
+        {
+            "LinkID": "103012016",
+            "RoadName": "HOLT ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 3,
+            "MinimumSpeed": "40",
+            "MaximumSpeed": "59",
+            "Location": "1.2934310999334304 103.82484733439362 1.2942176200903235 103.82582486565752"
+        },
+        {
+            "LinkID": "103057175",
+            "RoadName": "LENTOR AVENUE",
+            "RoadCategory": "B",
+            "SpeedBand": 3,
+            "MinimumSpeed": "40",
+            "MaximumSpeed": "59",
+            "Location": "1.3926676149662798 103.83644380027843 1.392788736696967 103.836253059076"
+        },
+        {
+            "LinkID": "103103595",
+            "RoadName": "AYER RAJAH EXPRESSWAY",
+            "RoadCategory": "A",
+            "SpeedBand": 4,
+            "MinimumSpeed": "60",
+            "MaximumSpeed": "",
+            "Location": "1.300565991283341 103.77776131278489 1.2996764969597445 103.77910681274477"
+        },
+        {
+            "LinkID": "103060887",
+            "RoadName": "LORONG CHENCHARU",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.415477529721408 103.82619703778077 1.4160947264320878 103.82485779848956"
+        },
+        {
+            "LinkID": "103113002",
+            "RoadName": "ROBEY CRESCENT",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3681399431741093 103.88229413669929 1.3671462206132938 103.8822154648141"
+        },
+        {
+            "LinkID": "104006030",
+            "RoadName": "CHAMPIONS WAY",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.42701067079461 103.78942754317147 1.427377339644944 103.79057571213559"
+        },
+        {
+            "LinkID": "103095079",
+            "RoadName": "JALAN PERGAM",
+            "RoadCategory": "E",
+            "SpeedBand": 3,
+            "MinimumSpeed": "40",
+            "MaximumSpeed": "59",
+            "Location": "1.3429777888159506 103.96104006277909 1.3444529517840251 103.96148851121612"
+        },
+        {
+            "LinkID": "103049418",
+            "RoadName": "CORPORATION WALK",
+            "RoadCategory": "E",
+            "SpeedBand": 4,
+            "MinimumSpeed": "60",
+            "MaximumSpeed": "",
+            "Location": "1.3405902913720105 103.71891121842984 1.3406012772585627 103.71905854545528"
+        },
+        {
+            "LinkID": "103001699",
+            "RoadName": "JALAN TUA KONG",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3175305116478193 103.92525609318645 1.3178591974926868 103.92514905196315"
+        },
+        {
+            "LinkID": "103092054",
+            "RoadName": "UBI AVENUE 1",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.329405125601843 103.90055847095665 1.33028797714188 103.90013972317871"
+        },
+        {
+            "LinkID": "103051271",
+            "RoadName": "PANDAN GARDENS",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3201278593517238 103.74868537261747 1.3212958354200364 103.74893330639192"
+        },
+        {
+            "LinkID": "103059303",
+            "RoadName": "BEGONIA ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3880197775625285 103.86286960896632 1.3887483279632333 103.86328471580873"
+        },
+        {
+            "LinkID": "103097367",
+            "RoadName": "CHOA CHU KANG AVENUE 1",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3771303230124494 103.74696278147944 1.3773960570732424 103.74784899770385"
+        },
+        {
+            "LinkID": "110007138",
+            "RoadName": "CHOA CHU KANG GROVE",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3748946916417757 103.75076440243522 1.374328251359226 103.74969207613857"
+        },
+        {
+            "LinkID": "104000458",
+            "RoadName": "SENGKANG SQUARE",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3905194797109601 103.89517723305796 1.3902761784135231 103.89587315703142"
+        },
+        {
+            "LinkID": "108002211",
+            "RoadName": "SENGKANG SQUARE",
+            "RoadCategory": "D",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3901340015841874 103.89627982248255 1.3902761784135231 103.89587315703142"
+        },
+        {
+            "LinkID": "103103090",
+            "RoadName": "PAN ISLAND EXPRESSWAY",
+            "RoadCategory": "A",
+            "SpeedBand": 4,
+            "MinimumSpeed": "60",
+            "MaximumSpeed": "",
+            "Location": "1.3353189072938845 103.92713807525239 1.3349874909519062 103.9255632977462"
+        },
+        {
+            "LinkID": "103110244",
+            "RoadName": "SOPHIA ROAD",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3017335514498491 103.8488138995188 1.3020505931348514 103.84753501033079"
+        },
+        {
+            "LinkID": "103028636",
+            "RoadName": "BERWICK DRIVE",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3630355316688796 103.85998640895656 1.3632841358353125 103.86048119009452"
+        },
+        {
+            "LinkID": "103082018",
+            "RoadName": "WOODLANDS AVENUE 2",
+            "RoadCategory": "B",
+            "SpeedBand": 3,
+            "MinimumSpeed": "40",
+            "MaximumSpeed": "59",
+            "Location": "1.4395011293833984 103.7878219532999 1.4395374111765264 103.78775881717601"
+        },
+        {
+            "LinkID": "103093627",
+            "RoadName": "KAMPONG BUGIS",
+            "RoadCategory": "E",
+            "SpeedBand": 2,
+            "MinimumSpeed": "20",
+            "MaximumSpeed": "39",
+            "Location": "1.3058800726679345 103.86715785189837 1.3064149744042008 103.86600939900082"
+        }
+    ]
+}
